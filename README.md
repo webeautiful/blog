@@ -2,4 +2,4 @@
 ---
 博客地址
 ===
-所有博客均发表在issues
+所有博客均发表在[issues](https://github.com/webeautiful/blog/issues)
